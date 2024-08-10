@@ -31,7 +31,7 @@ OAouth is a web application that allows users to share secrets anonymously. It i
 1. **Clone the repository**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/RUBBOSS/OAouth.git
     cd <repository-directory>
     ```
 
